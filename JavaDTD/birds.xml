@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE birds [<!ELEMENT birds (bird+)>
+
+<!ELEMENT bird (name, state, city) >
+
+<!ELEMENT name (#PCDATA) >
+
+<!ELEMENT state (#PCDATA) >
+
+<!ELEMENT city (#PCDATA) >
+
+<!ATTLIST shop id CDATA #REQUIRED >]>
+
+<birds>
+
+  <bird id="1">
+
+    <name>parrot</name>
+
+    <state>california</state>
+
+    <city>cali</city>
+
+  </bird >
+
+  <bird id="2">
+
+    <name>sparrow</name>
+
+    <state>newyork</state>
+
+    <city>newyork</city>
+
+  </bird>
+
+</birds>

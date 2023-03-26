@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<birds>
+
+  <shop id="1">
+
+    <name>parrot</name>
+
+    <state>california</state>
+
+    <city>cali</city>
+
+  </shop>
+
+  <bird id="2">
+
+    <name>sparrow</name>
+
+    <state>newyork</state>
+
+    <city>newyork</city>
+
+  </bird>
+
+</birds>
+
+
+
+
+
